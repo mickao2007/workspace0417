@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string  >month</string>
+    
+    <item >Jan </item>
+    <item> Feb </item> 
+         <item> March</item>
+    <item> April </item>
+        <item> May </item>
+        <item> Jun </item>
+        <item> July </item>
+        <item>   </item>
+</resources>
